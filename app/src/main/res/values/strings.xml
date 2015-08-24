@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">androidDemoImageLoader</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="images">
+
+        <item>http://c1.f12.img.vnecdn.net/2015/08/24/1-1440402427_660x0.jpg</item>
+        <item>http://c1.f11.img.vnecdn.net/2015/08/24/11-1440402441_660x0.jpg</item>
+        <item>http://c1.f10.img.vnecdn.net/2015/08/24/2-1440402427_660x0.jpg</item>
+        <item>http://c1.f9.img.vnecdn.net/2015/08/24/3-1440402427_660x0.jpg</item>
+        <item>http://c1.f10.img.vnecdn.net/2015/08/24/5-1440402429_660x0.jpg</item>
+        <item>http://c1.f11.img.vnecdn.net/2015/08/24/7-1440402433_660x0.jpg</item>
+        <item>http://c1.f10.img.vnecdn.net/2015/08/24/11951865-1147373941943852-4679885643762850739-n-1440402553_660x0.jpg</item>
+        <item>http://c1.f9.img.vnecdn.net/2015/08/24/8-1440402435_660x0.jpg</item>
+        <item>http://c1.f10.img.vnecdn.net/2015/08/24/9-1440402437_660x0.jpg</item>
+        <item>http://c1.f11.img.vnecdn.net/2015/08/24/10-1440402439_660x0.jpg</item>
+        <item>http://c1.f10.img.vnecdn.net/2015/08/19/toc-sao-4_660x0.jpg</item>
+        <item>http://c1.f12.img.vnecdn.net/2015/08/24/1-1440402427_660x0.jpg</item>
+        <item>http://c1.f11.img.vnecdn.net/2015/08/24/11-1440402441_660x0.jpg</item>
+        <item>http://c1.f10.img.vnecdn.net/2015/08/24/2-1440402427_660x0.jpg</item>
+        <item>http://c1.f9.img.vnecdn.net/2015/08/24/3-1440402427_660x0.jpg</item>
+        <item>http://c1.f10.img.vnecdn.net/2015/08/24/5-1440402429_660x0.jpg</item>
+        <item>http://c1.f11.img.vnecdn.net/2015/08/24/7-1440402433_660x0.jpg</item>
+        <item>http://c1.f10.img.vnecdn.net/2015/08/24/11951865-1147373941943852-4679885643762850739-n-1440402553_660x0.jpg</item>
+        <item>http://c1.f9.img.vnecdn.net/2015/08/24/8-1440402435_660x0.jpg</item>
+        <item>http://c1.f10.img.vnecdn.net/2015/08/24/9-1440402437_660x0.jpg</item>
+        <item>http://c1.f11.img.vnecdn.net/2015/08/24/10-1440402439_660x0.jpg</item>
+        <item>http://c1.f10.img.vnecdn.net/2015/08/19/toc-sao-4_660x0.jpg</item>
+        <item>http://c1.f12.img.vnecdn.net/2015/08/24/1-1440402427_660x0.jpg</item>
+        <item>http://c1.f11.img.vnecdn.net/2015/08/24/11-1440402441_660x0.jpg</item>
+        <item>http://c1.f10.img.vnecdn.net/2015/08/24/2-1440402427_660x0.jpg</item>
+        <item>http://c1.f9.img.vnecdn.net/2015/08/24/3-1440402427_660x0.jpg</item>
+        <item>http://c1.f10.img.vnecdn.net/2015/08/24/5-1440402429_660x0.jpg</item>
+        <item>http://c1.f11.img.vnecdn.net/2015/08/24/7-1440402433_660x0.jpg</item>
+        <item>http://c1.f10.img.vnecdn.net/2015/08/24/11951865-1147373941943852-4679885643762850739-n-1440402553_660x0.jpg</item>
+        <item>http://c1.f9.img.vnecdn.net/2015/08/24/8-1440402435_660x0.jpg</item>
+        <item>http://c1.f10.img.vnecdn.net/2015/08/24/9-1440402437_660x0.jpg</item>
+        <item>http://c1.f11.img.vnecdn.net/2015/08/24/10-1440402439_660x0.jpg</item>
+        <item>http://www.mytripolog.com/wp-content/uploads/2011/05/large-size-world-political-map.jpg</item>
+    </string-array>
+</resources>
